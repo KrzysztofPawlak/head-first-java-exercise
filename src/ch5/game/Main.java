@@ -1,4 +1,4 @@
-package ch5;
+package ch5.game;
 
 public class Main {
     public static void main(String[] args) {

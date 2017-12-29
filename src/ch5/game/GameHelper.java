@@ -1,4 +1,4 @@
-package ch5;
+package ch5.game;
 
 import java.io.BufferedReader;
 import java.io.IOException;
